@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mojnu
-- 👀 3rd year CSE Student, PUST
+- 👀 CSE Student, PUST
 - 🌱 I’m currently learning backend development
-- 📫 Email: learnwithmojnu@gmail.com
-- 💻 Portfolio: https://mojnu.tech
+- 📫 Email: mojnu.miah.cse@gmail.com
+- 💻 Portfolio: https://moj-nu.web.app
 
 <!---
 learnwithmojnu/learnwithmojnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
